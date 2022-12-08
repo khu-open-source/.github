@@ -1,5 +1,17 @@
-# About the Project 🎬 - WATCHIVE
+# About the Project 🎬 - WATCHVIE
 Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제공하는 웹 페이지입니다.
+
+#### contents
+- [Team Member](#1-team-member)<br/>
+- [Getting Start](#2-installation)<br/>
+- [Project Architecture](#3-project-architecture)<br/>
+- [Usage](#4-usage)<br/>
+- [Roadmap](#5-roadmap)<br/>
+- [Contributing](#6-contributing)<br/>
+- [Environment](#7-environment)<br/>
+- [Convention](#8-convention)<br/>
+- [License](#9-license)<br/>
+
 
 ## 1 Team Member
 
@@ -18,7 +30,7 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 
 
 
-## 2 Getting  Start (Installation)
+## 2 Installation
 
 
 
@@ -62,6 +74,10 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 pull request 포함 문의사항은 📧[contact](#1-team-member)  으로 연락 부탁드립니다.
 
 ## 7 Environment
+- Language <br/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
+- Programming <br/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+- Library <br/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=black"> 
+
 
 
 
@@ -75,5 +91,15 @@ pull request 포함 문의사항은 📧[contact](#1-team-member)  으로 연락
 - [Commit msg](https://medium.com/humanscape-tech/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-commit-message-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-conventional-commits-ae885898e754)
 ![image](https://user-images.githubusercontent.com/114723339/206160359-4cbfbdaa-4ca1-4197-a784-b091d7b11687.png)
 commit의 종류는 위와 같이 구분합니다.
+
+#### Work Flow
+1. ISSUE 생성<br/>
+작업에 대한 정보를 포함한 ISSUE를 생성합니다. <br/>
+2. 생성된 ISSUE에 대해 Draft PR 생성<br/>
+ISSUE를 연결하여 관리하고 Pair Programming을 어느정도 진행하기 위해 Draft PR을 생성합니다. <br/>
+3. 작업을 마친후 PR Open 및 코드 리뷰<br/>
+작업이 끝나게 되면 Draft PR을 일반 PR로 변경하고 서로 코드 리뷰를 진행합니다.<br/>
+4. Merge & PR Close & Remove Branch<br/>
+코드 리뷰까지 모두 마리가 되면 해당 브런치를 dev에 merge하고 pr 닫기 및 브런치 삭제를 진행합니다.<br/>
 
 ## 9 License
