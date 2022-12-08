@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=WATCHVIE%20&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=WATCHVIE%20&fontSize=60)
 
 
 
