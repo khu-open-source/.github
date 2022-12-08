@@ -60,13 +60,17 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 # 4 Usage 
 주요 기능 소개
 - Home page
-![homepage](https://user-images.githubusercontent.com/114723339/206430229-55726f15-00e6-49df-b8de-2b1d7d475684.jpeg)<br/>
+<img width="1428" alt="바뀐 homepage" src="https://user-images.githubusercontent.com/114723339/206464101-19bb5605-9d9f-410a-a57e-38c71cdde95b.png"> <br/>
 메인 페이지에서 인기있는 영화 목록을 보여줍니다. <br/>
 옵션(1) 상단의 내비게이션 바에서 5가지 장르 중 맘에 드는 장르를 선택합니다.<br/>
-옵션(2) 상단의 내비게이션 바 우측의 로그인 및 회원가입 버튼으로 WATCHVIE에 사용자 정보를 등록할 수 있습니다. <br/>
-옵션(3) 이미 로그인이 되어있는 경우 로그아웃하면 메인화면으로 돌아갑니다.<br/>
+옵션(2) 내비게이션 바 우측 상단의 로그인 및 회원가입 버튼으로 WATCHVIE에 사용자 정보를 등록할 수 있습니다. <br/>
+옵션(3) 상단의 내비게이션 바 좌측의 팀 로고인 WATCHVIE를 누르면 어떤 화면에 있던지 메인으로 돌아갑니다.<br/>
 옵션(4) 영화에 대한 정보를 검색하여 확인해볼 수 있습니다.<br/>
 <br/>
+
+- 로그인된 상태
+<img width="1428" alt="로그인한 홈페이지" src="https://user-images.githubusercontent.com/114723339/206464686-4a49dc03-8027-4f4e-a9fa-70f5aaf7dd28.png"><br/>
+로그인 후 메인화면입니다. 내비게이션 바 우측 상단의 로그아웃 버튼을 누르면 앞선 홈화면의 형태로 돌아갑니다.
 
 - SignUp page
 ![signuppage](https://user-images.githubusercontent.com/114723339/206430239-d55a003c-d17c-4653-acd8-3fd6b89e55e0.jpeg) <br/>
@@ -109,6 +113,7 @@ UserID와 PW를 입력하고 하단의 SignIn 버튼을 눌러 페이지에 로�
 
 
 <br/>
+
 # 6 Contributing
 프로젝트에 기여하고 싶으신 분들은 아래 절차를 따라주시기 바랍니다.
 
@@ -156,4 +161,5 @@ ISSUE를 연결하여 관리하고 Pair Programming을 어느정도 진행하기
 <br/>
 
 # 9 License
+
 
