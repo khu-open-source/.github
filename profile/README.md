@@ -19,7 +19,7 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 
 
 ## 1 Team Member 
-<mark style='background-color: red'>붉은색</mark>
+팀원의 역할과 컨택가능한 메일 주소입니다. 
 
 #### FullStack 
 이동현 - dhl9810@khu.ac.kr <br/>
@@ -33,16 +33,20 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 고윤성 - reallystars@khu.ac.kr <br/>
 조예린 - dpfls5645@khu.ac.kr <br/>
 
-각 팀원의 역할과 컨택가능한 메일 주소입니다. 
 
 
 ## 2 Installation
+저희의 프로젝트를 시작해보세요.
 
 
 
+아래
+
+<img width="888" alt="스크린샷 2022-12-08 오후 7 17 08" src="https://user-images.githubusercontent.com/114723339/206421274-a2520d09-312e-41d7-9a80-3430a0393c10.png">
 
 
 ## 3 Project Architecture
+
 
 
 
@@ -62,12 +66,12 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 3️⃣ 각 페이지들 라우팅 <br/>
 4️⃣ 영화 API 연결 <br/>
 5️⃣ Backend - Frontend 연결 <br/>
-6️⃣ css 다듬기 <br/>
+6️⃣ css 정리 <br/>
 
 
 #### Backend
 
-
+<br/>
 
 
 
