@@ -1,5 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=WATCHVIE%20&fontSize=60)
+
+
+
 # About the Project 🎬 - WATCHVIE
 Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제공하는 웹 페이지입니다.
+영화 제목, 장르, 개봉일, 인기도 등의 정보를 제공합니다.
 
 #### contents
 - [Team Member](#1-team-member)<br/>
@@ -13,7 +18,8 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 - [License](#9-license)<br/>
 
 
-## 1 Team Member
+## 1 Team Member 
+<mark style='background-color: red'>붉은색</mark>
 
 #### FullStack 
 이동현 - dhl9810@khu.ac.kr <br/>
@@ -27,7 +33,7 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 고윤성 - reallystars@khu.ac.kr <br/>
 조예린 - dpfls5645@khu.ac.kr <br/>
 
-
+각 팀원의 역할과 컨택가능한 메일 주소입니다. 
 
 
 ## 2 Installation
@@ -50,7 +56,23 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 
 
 ## 5 Roadmap
+#### Frontend
+1️⃣ 장르 선택 및 로그인/회원가입으로 구성된 헤더 구현 <br/>
+2️⃣ 로그인, 회원가입, 영화 정보 등 단일 페이지 구성 <br/>
+3️⃣ 각 페이지들 라우팅 <br/>
+4️⃣ 영화 API 연결 <br/>
+5️⃣ Backend - Frontend 연결 <br/>
+6️⃣ css 다듬기 <br/>
 
+
+#### Backend
+
+
+
+
+
+#### 공통
+7️⃣ AWS 배포 
 
 
 
