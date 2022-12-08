@@ -18,7 +18,8 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 - [License](#9-license)<br/>
 
 
-## 1 Team Member 
+
+# 👥 1 Team Member  
 팀원의 역할과 컨택가능한 메일 주소입니다. 
 
 #### FullStack 
@@ -35,31 +36,53 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 
 
 
-## 2 Installation
+
+
+
+# ⬇️ 2 Installation
 저희의 프로젝트를 시작해보세요.
 
 
 
-아래
-
-<img width="888" alt="스크린샷 2022-12-08 오후 7 17 08" src="https://user-images.githubusercontent.com/114723339/206421274-a2520d09-312e-41d7-9a80-3430a0393c10.png">
-
-
-## 3 Project Architecture
 
 
 
 
 
 
-## 4 Usage 
+# 🖌️ 3 Project Architecture
+<br/>
+
+
+
+
+
+# 📖 4 Usage 
 주요 기능 소개
+- Home page
+![homepage](https://user-images.githubusercontent.com/114723339/206430229-55726f15-00e6-49df-b8de-2b1d7d475684.jpeg)<br/>
+메인 페이지에서 인기있는 영화 목록을 보여줍니다. <br/>
+옵션(1) 상단의 내비게이션 바에서 5가지 장르 중 맘에 드는 장르를 선택합니다.<br/>
+옵션(2) 상단의 내비게이션 바 우측의 로그인 및 회원가입 버튼으로 WATCHVIE에 사용자 정보를 등록할 수 있습니다. <br/>
+옵션(3) 이미 로그인이 되어있는 경우 로그아웃하면 메인화면으로 돌아갑니다.<br/>
+옵션(4) 영화에 대한 정보를 검색하여 확인해볼 수 있습니다.<br/>
+<br/>
+
+- SignUp page
+![signuppage](https://user-images.githubusercontent.com/114723339/206430239-d55a003c-d17c-4653-acd8-3fd6b89e55e0.jpeg) <br/>
+homepage에서 옵션(2)의 SingUp버튼을 누르면 위 화면으로 이동합니다.<br/>
+이메일,이름,ID,PW(password)를 입력하여 회원가입 절차를 진행합니다. <br/>
+화면 하단의 SignUp 버튼을 누르면 SignIn page로 넘어갑니다.<br/>
+
+- SignIn page
+![loginpage](https://user-images.githubusercontent.com/114723339/206430248-c534ab34-109b-48ce-8738-54b3bd5f828b.jpeg)<br/>
+homepage에서 옵션(2)의 SignIn버튼을 누르면 위 화면으로 이동합니다. <br/>
+UserID와 PW를 입력하고 하단의 SignIn 버튼을 눌러 페이지에 로그인합니다. <br/>
+<br/>
 
 
 
-
-
-## 5 Roadmap
+# 📌 5 Roadmap
 #### Frontend
 1️⃣ 장르 선택 및 로그인/회원가입으로 구성된 헤더 구현 <br/>
 2️⃣ 로그인, 회원가입, 영화 정보 등 단일 페이지 구성 <br/>
@@ -85,8 +108,8 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
 
 
 
-
-## 6 Contributing
+<br/>
+# 🙏 6 Contributing
 프로젝트에 기여하고 싶으신 분들은 아래 절차를 따라주시기 바랍니다.
 
     1. 프로젝트 fork
@@ -98,19 +121,22 @@ Watch Movie의 줄임말로 무료 영화 API를 이용한 영화 정보를 제�
     Pull request는 최대한 빨리 확인하도록 하겠습니다. 
     
 pull request 포함 문의사항은 📧[contact](#1-team-member)  으로 연락 부탁드립니다.
+<br/>
+<br/>
 
-## 7 Environment
+# 🖥️ 7 Environment
 - Language <br/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
 - Programming <br/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 - Library <br/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=black"> 
+<br/>
+<br/>
 
 
 
 
 
 
-
-## 8 Convention
+# 💬 8 Convention
 #### Commit Convention
 - [Conventional Commit](https://www.conventionalcommits.org/ko/v1.0.0/#%ea%b7%9c%ea%b2%a9)
 
@@ -127,5 +153,7 @@ ISSUE를 연결하여 관리하고 Pair Programming을 어느정도 진행하기
 작업이 끝나게 되면 Draft PR을 일반 PR로 변경하고 서로 코드 리뷰를 진행합니다.<br/>
 4. Merge & PR Close & Remove Branch<br/>
 코드 리뷰까지 모두 마리가 되면 해당 브런치를 dev에 merge하고 pr 닫기 및 브런치 삭제를 진행합니다.<br/>
+<br/>
 
-## 9 License
+# 🔑 9 License
+
